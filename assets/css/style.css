@@ -1,0 +1,6 @@
+#home,#about,#contact,#story {
+min-height: 100vh;
+}
+#keluh-kesah {
+    height: 10rem;
+}
